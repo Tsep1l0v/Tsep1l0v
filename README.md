@@ -51,9 +51,6 @@ PuzzleIt — A puzzle game built with SwiftUI (https://apps.apple.com/ru/app/puz
 
 <a href="http://www.github.com/Tsep1l0v"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsep1l0v&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<div id="header" style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="1000"/>
-</div>
 
 
 
