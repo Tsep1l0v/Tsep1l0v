@@ -17,6 +17,7 @@ Sly Slime — A 2D platformer implemented using UIKit and SpriteKit (https://app
 PuzzleIt — A puzzle game built with SwiftUI (https://apps.apple.com/ru/app/puzzleit/id6736948630).
 
 * 🌍  I'm based in Russian
+* ✉️  You can contact me at [w1nd0wstsepilov@yandex.ru](mailto:w1nd0wstsepilov@yandex.ru)
 
 ### Skills
 
