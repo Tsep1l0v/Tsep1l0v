@@ -38,7 +38,7 @@ PuzzleIt — A puzzle game built with SwiftUI (https://apps.apple.com/ru/app/puz
     </picture>
   </a>
   
-  <a href="https://t.me/tsepilo_v" target="_blank" rel="noreferrer">
+  <a href="https://t.me/tsep1lov" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram"/>
   </a>
 </p>
